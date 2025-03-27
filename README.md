@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Luana from Rio de Janeiro<br><br>- 🔭 My goal is to work as a data analyst<br>- 📚 I'm currently learning Python and SQL<br>- ⚡ In my free time I read, watch movies and do crafts</p>
+<p align="left">I'm Luana from Rio de Janeiro<br><br>- 🔭 I'm a future data analyst!<br>- 📚 I'm currently learning Python and SQL<br>- ⚡ In my free time I read, watch movies and do crafts</p>
 
 ###
 
